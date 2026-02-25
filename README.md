@@ -4,7 +4,8 @@
 eスポーツ業界や、ITを活用して課題解決を行う分野に関心を持ち、学業や個人開発に取り組んでいます。
 
 本リポジトリでは、これまでに大学の演習や卒業研究等で制作したプロジェクトをまとめています。
-https://github.com/user-attachments/assets/eae0d20d-8243-46f6-9755-0c0bf7767c1e
+
+![デモ画面](https://github.com/user-attachments/assets/cac0d20d-8243-46f6-9755-0c0bf7767c1c)
 
 ## 📁 ディレクトリ構成
 
