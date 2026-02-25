@@ -1,0 +1,50 @@
+{
+  "exhibitors": {
+    "exhibitor001": {
+      "id": "exhibitor001",
+      "name": "テスト出展者1",
+      "password": "password123",
+      "company": "テスト株式会社",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    "exhibitor002": {
+      "id": "exhibitor002",
+      "name": "テスト出展者2",
+      "password": "password123",
+      "company": "サンプル企業",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  "organizers": {
+    "organizer001": {
+      "id": "organizer001",
+      "name": "テスト主催者1",
+      "password": "password123",
+      "role": "admin",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    "organizer002": {
+      "id": "organizer002",
+      "name": "テスト主催者2",
+      "password": "password123",
+      "role": "manager",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  },
+  "staff": {
+    "staff001": {
+      "id": "staff001",
+      "name": "テストスタッフ1",
+      "password": "password123",
+      "department": "運営部",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    "staff002": {
+      "id": "staff002",
+      "name": "テストスタッフ2",
+      "password": "password123",
+      "department": "技術部",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  }
+} 

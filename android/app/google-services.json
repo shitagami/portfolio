@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "YOUR-PROJECT-NUMBER",
+    "project_id": "YOUR-PROJECT-ID",
+    "storage_bucket": "YOUR-PROJECT-ID.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "YOUR-ANDROID-APP-ID",
+        "android_client_info": {
+          "package_name": "com.example.ble_beacon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR-ANDROID-API-KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+} 
