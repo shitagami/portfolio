@@ -8,6 +8,11 @@ eスポーツ業界や、ITを活用して課題解決を行う分野に関心�
 ![Final_Tracking_30s (1)](https://github.com/user-attachments/assets/c86487e4-a0a2-40a7-97f0-3b5aa3f7299f)
 
 
+<img width="593" height="389" alt="画像1" src="https://github.com/user-attachments/assets/5c700469-7885-43af-919c-4a7145a6df0c" />
+
+<img width="296" height="428" alt="画像2" src="https://github.com/user-attachments/assets/f093b5dd-60c8-4af5-abc2-8a769b4c7634" />
+
+
 ## 📁 ディレクトリ構成
 
 ```text
