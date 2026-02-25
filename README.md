@@ -6,6 +6,7 @@ eスポーツ業界や、ITを活用して課題解決を行う分野に関心�
 本リポジトリでは、これまでに大学の演習や卒業研究等で制作したプロジェクトをまとめています。
 
 ## 📁 ディレクトリ構成
+![Uploading Final_Tracking_30s (1).gif…]()
 
 ```text
 📦 portfolio
@@ -21,4 +22,4 @@ eスポーツ業界や、ITを活用して課題解決を行う分野に関心�
  ┃ ┣ 📄 DiGRAJ16fix.pdf (学会発表論文)
  ┃ ┗ 📄 DiGRAJ16pre.pdf (学会予稿)
  ┗ 📄 .gitignore
-![Final_Tracking_30s (1)](https://github.com/user-attachments/assets/2ef86330-e437-4cfc-baba-6bbd1c3e24d9)
+
