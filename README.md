@@ -27,6 +27,6 @@ eスポーツ業界や、ITを活用して課題解決を行う分野に関心�
  ┃ ┣ 📂 src/ (Python解析・インターフェースのソースコード)
  ┃ ┣ 📄 demo_presentation.mp4 (デモ動画)
  ┃ ┣ 📄 DiGRAJ16fix.pdf (学会発表論文)
- ┃ ┗ 📄 DiGRAJ16pre.pdf (学会予稿)
+ ┃ ┗ 📄 DiGRAJ16pre.pdf (学会発表スライド)
  ┗ 📄 .gitignore
 
